@@ -4,6 +4,6 @@
 A notebook for google colaboratory, providing an easy way to use [AUTOMATIC1111's stable diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) even without a computer strong enough to run it. \
 This notebook is based on [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab), and has been heavily modified to be more customisable and (hopefully) user friendly, big thanks to them for making this possible.
 
-## Colab disallows the use of stable diffusion web UIs on free pro plans
-Seeing as I don't pay for the pro plans, this also means that this project is mostly abandoned.<br/>
+## Colab disallows the use of stable diffusion web UIs on the free plan
+Seeing as I don't pay for the pro plan, this also means that this project is abandoned.<br/>
 [Source](https://twitter.com/thechrisperry/status/1649189902079381505)
